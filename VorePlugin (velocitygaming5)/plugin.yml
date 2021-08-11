@@ -1,0 +1,18 @@
+name: VorePlugin
+main: me.adamholder01.voreplugin.VorePlugin
+version: 1.2.0
+softdepend: [PlaceholderAPI]
+authors: [adamholder01]
+commands:
+  setbelly:
+    usage: "§8[§b§lVorePlugin§8] §7Usage: /setbelly <name>"
+    description: Sets the given belly to the player's location.
+  setrank:
+    usage: "§8[§b§lVorePlugin§8] §7Usage: /setrank <name>"
+    description: Sets the player's rank.
+  digest:
+    usage: "§8[§b§lVorePlugin§8] §7Usage: /digest <player>"
+    description: Digests the given player.
+  release:
+    usage: "§8[§b§lVorePlugin§8] §7Usage: /release <player>"
+    description: Releases the given player.
