@@ -1,4 +1,4 @@
-# VorePlugin-4.0
+# VorePlugin 1.0
 This is a fully Functional Vore Plugin for Minecraft. 
 this Currently works on 1.14.1, but it may work on newer versions.
 
