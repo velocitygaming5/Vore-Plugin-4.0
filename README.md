@@ -19,6 +19,6 @@ VorePlugin
     /voreplugin:setrank  - set your status: Predator, Prey or Switch
 ===============================================
 
-![2021-12-06_15 40 31](https://user-images.githubusercontent.com/71992765/145104807-41186139-89d5-4c41-be1e-7bfc763a9965.png)
 ![2021-12-07_16 04 09](https://user-images.githubusercontent.com/71992765/145106299-4b7629e3-66c4-47fb-a22c-5f87916a42ac.png)
 ![2021-12-07_16 05 55](https://user-images.githubusercontent.com/71992765/145106304-49e13f4a-a987-4b0b-a686-3ebd212af7e0.png)
+![2021-12-07_16 09 48](https://user-images.githubusercontent.com/71992765/145106723-b94b5cf0-14de-47a1-8845-f9d081ba067f.png)
